@@ -6,3 +6,7 @@ Downloading Instructions:
     Download the Directory.exe file and run the program. You don't need python installed on your computer and this .exe file works with linux, mac, and windows. 
 
 I have also attached the Directory.py to show my source code if anyone is interested. 
+
+UPDATE (7/5/20):
+    Added a menu option to show all the images saved so far
+    Fixed some minor password errors
