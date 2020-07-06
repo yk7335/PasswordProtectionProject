@@ -5,7 +5,8 @@ This is a simple python script which password protects your pictures so only you
 Downloading Instructions:
     Download the Directory.exe file and run the program. You don't need python installed on your computer and this .exe file works with linux, mac, and windows. 
 
-I have also attached the Directory.py to show my source code if anyone is interested. 
+I have also attached the Directory.py to show my source code if anyone is interested.
+(OLD Directory Source.py is the old source code before the update)
 
 UPDATE (7/5/20):
     Added a menu option to show all the images saved so far
